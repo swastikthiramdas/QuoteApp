@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739648575208",
+    "project_id": "quotes-985b3",
+    "storage_bucket": "quotes-985b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739648575208:android:43ac71e1c3f0df7cb39b5d",
+        "android_client_info": {
+          "package_name": "com.swastik.shayariapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739648575208-utlvvcosefmbllbf32tt4jf0c55clped.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfhFp8GUUdEVeA9ICzgyQEeOdp-wWeEC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739648575208-utlvvcosefmbllbf32tt4jf0c55clped.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
